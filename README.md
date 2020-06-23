@@ -1,2 +1,2 @@
-# Data-Visualisation
-This contains the data visualisation projects and datasets as well.
+# Data-Visualization
+This contains the data visualization projects and datasets as well.
